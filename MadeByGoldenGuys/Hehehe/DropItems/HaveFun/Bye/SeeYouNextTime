@@ -2,42 +2,42 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
 local Window = Library.CreateLib("Drop World!", "Midnight")
 local Tab = Window:NewTab("Auto Drop Items!")
 local Section = Tab:NewSection("Auto Drop Items!")
-Section:NewButton("Auto Drop The banana", "ButtonInfo", function()
+Section:NewButton("Auto Drop The banana", "...", function()
     getgenv().item_name = "The banana" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
 end)
-Section:NewButton("Auto Drop Angle Eye", "ButtonInfo", function()
+Section:NewButton("Auto Drop Angle Eye", "...", function()
 getgenv().item_name = "Angle Eye" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
 end)
-Section:NewButton("Auto Drop Rainbow Crystal!", "ButtonInfo", function()
+Section:NewButton("Auto Drop Rainbow Crystal!", "...", function()
 getgenv().item_name = "Crystal Rainbow" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
 end)
-Section:NewButton("Auto Drop Rainbow LollyPop", "ButtonInfo", function()
+Section:NewButton("Auto Drop Rainbow LollyPop", "...", function()
 getgenv().item_name = "Lolly Rainbow" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
 end)
 
-Section:NewButton("Auto Drop Rainbow Gummy", "ButtonInfo", function()
+Section:NewButton("Auto Drop Rainbow Gummy", "...", function()
  getgenv().item_name = "Gummy Rainbow" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
 end)
-Section:NewButton("Auto Drop Muscles", "ButtonInfo", function()
+Section:NewButton("Auto Drop Muscles", "...", function()
     getgenv().item_name = "Muscles" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
 end)
-Section:NewButton("Auto Drop Jet!", "ButtonInfo", function()
+Section:NewButton("Auto Drop Jet!", "...", function()
     getgenv().item_name = "Jet" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
-end)Section:NewButton("Auto Drop ETruck", "ButtonInfo", function()
+end)Section:NewButton("Auto Drop ETruck", "...", function()
    getgenv().item_name = "eTruck" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
-end)Section:NewButton("Auto Drop Rainbow Tesla", "ButtonInfo", function()
+end)Section:NewButton("Auto Drop Rainbow Tesla", "...", function()
     getgenv().item_name = "Tulsa rainbow" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
 end)
-Section:NewButton("Auto Drop Popit Rainbow ", "Drop banana", function()
+Section:NewButton("Auto Drop Popit Rainbow ", "...", function()
 getgenv().item_name = "Pop It Rainbow!" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
 end)
