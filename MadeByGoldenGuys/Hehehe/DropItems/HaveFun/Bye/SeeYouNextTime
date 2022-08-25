@@ -1,0 +1,43 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Drop World!", "Midnight")
+local Tab = Window:NewTab("Auto Drop Items!")
+local Section = Tab:NewSection("Auto Drop Items!")
+Section:NewButton("Auto Drop The banana", "ButtonInfo", function()
+    getgenv().item_name = "The banana" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)
+Section:NewButton("Auto Drop Angle Eye", "ButtonInfo", function()
+getgenv().item_name = "Angle Eye" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)
+Section:NewButton("Auto Drop Rainbow Crystal!", "ButtonInfo", function()
+getgenv().item_name = "Crystal Rainbow" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)
+Section:NewButton("Auto Drop Rainbow LollyPop", "ButtonInfo", function()
+getgenv().item_name = "Lolly Rainbow" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)
+
+Section:NewButton("Auto Drop Rainbow Gummy", "ButtonInfo", function()
+ getgenv().item_name = "Gummy Rainbow" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)
+Section:NewButton("Auto Drop Muscles", "ButtonInfo", function()
+    getgenv().item_name = "Muscles" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)
+Section:NewButton("Auto Drop Jet!", "ButtonInfo", function()
+    getgenv().item_name = "Jet" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)Section:NewButton("Auto Drop ETruck", "ButtonInfo", function()
+   getgenv().item_name = "eTruck" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)Section:NewButton("Auto Drop Rainbow Tesla", "ButtonInfo", function()
+    getgenv().item_name = "Tulsa rainbow" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)
+Section:NewButton("Auto Drop Popit Rainbow ", "Drop banana", function()
+getgenv().item_name = "Pop It Rainbow!" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
+end)
